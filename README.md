@@ -1,0 +1,1 @@
+Testing new skills in CSS. Main focus is on usage of flexbox for creating landing page.
