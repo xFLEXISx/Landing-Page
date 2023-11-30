@@ -62,6 +62,7 @@ nav a {
 
 button {
     font-size: 18px;
+    font-weight: bold;
     background-color: #3882F6;
     color: #F9FAF8;
     padding: 6px 30px;
@@ -148,4 +149,9 @@ h2 {
     border: 2px solid #F9FAF8;
 }
 
-
+footer {
+    background-color: #1F2937;
+    color: #E5E7EB;
+    text-align: center;
+    padding: 20px 0;
+}
